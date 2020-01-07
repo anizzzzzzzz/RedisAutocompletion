@@ -1,0 +1,25 @@
+body{
+    width: 80%;
+    margin: auto;
+}
+
+.index-header{
+    text-align: center;
+    margin: 25px auto;
+}
+
+.trie-list-item{
+    color: dodgerblue !important;
+    text-align: center;
+    margin: 10px 0;
+}
+
+.text-input{
+    width: 50%;
+    margin: 20px auto;
+}
+
+.suggestion-table td{
+    width: 1%;
+    white-space: nowrap;
+}
